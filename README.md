@@ -101,7 +101,7 @@ It runs entirely on your machine — no cloud, no third-party servers, no data l
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/nestshare.git
+git clone https://github.com/haedes13/NestShare.git
 cd nestshare
 
 # 2. Make the launch script executable
